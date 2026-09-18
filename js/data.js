@@ -174,6 +174,120 @@ const ANTIQUE_COLLECTIONS = [
       "Bingkai panel memiliki aksen warna merah dan emas",
       "Cocok sebagai furnitur koleksi untuk interior heritage atau Peranakan"
     ]
+  },
+  {
+    id: "IDG-010",
+    title: "Set Stoples Kaca Antik Motif Bunga dalam Lemari Pajangan",
+    category: "keramik",
+    categoryLabel: "Keramik & Porselen",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Kaca dan tutup tampak utuh, dengan variasi patina, warna, serta bekas pemakaian alami",
+    dimension: "Terdiri dari beberapa stoples dengan ukuran bervariasi (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p10.png",
+    description: "Koleksi stoples kaca bertutup dengan beragam warna transparan dan dekorasi bunga, daun, serta motif geometris. Stoples ditata di dalam lemari pajangan kayu berbingkai kaca, sehingga tampak sebagai satu arsip visual perlengkapan rumah tangga vintage. Jumlah, merek, usia, dan asal produksi masing-masing stoples perlu diverifikasi secara langsung.",
+    highlights: [
+      "Koleksi stoples kaca dengan tutup dan knop dekoratif",
+      "Memiliki variasi warna hijau, biru, bening, dan gelap",
+      "Dekorasi bunga serta motif tumbuhan pada sejumlah stoples",
+      "Ditampilkan dalam lemari pajangan kayu berbingkai kaca",
+      "Menarik untuk kolektor glassware dan perlengkapan rumah vintage"
+    ]
+  },
+  {
+    id: "IDG-011",
+    title: "Set Empat Piring Keramik Lukis Motif Ikan Biru",
+    category: "keramik",
+    categoryLabel: "Keramik & Porselen",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Permukaan glasir tampak terawat dengan bekas pemakaian alami; kondisi bagian belakang dan cap perlu diperiksa",
+    dimension: "Diameter tiap piring sekitar 20-25 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p11.png",
+    description: "Satu set empat piring keramik dengan dekorasi lukis tangan atau dekorasi bergaya lukis tangan berupa figur ikan berwarna biru, aksen cokelat, dan sapuan ornamen biru pada tepi piring. Keempat piring ditampilkan dalam satu rangkaian dengan motif ikan yang berbeda. Tanda pembuat, asal daerah, usia, dan teknik dekorasinya perlu diverifikasi melalui pemeriksaan bagian belakang piring.",
+    highlights: [
+      "Satu set terdiri dari empat piring keramik",
+      "Motif ikan biru menjadi elemen utama setiap piring",
+      "Aksen cokelat dan ornamen biru pada permukaan putih",
+      "Setiap piring memiliki variasi bentuk ikan dan komposisi dekorasi",
+      "Menarik untuk kolektor keramik dekoratif dan tableware vintage"
+    ]
+  },
+  {
+    id: "IDG-012",
+    title: "Set Ubin Lantai Keramik Heritage Motif Geometris dan Floral",
+    category: "keramik",
+    categoryLabel: "Keramik & Porselen",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Memiliki patina, noda usia, dan bekas pemakaian; beberapa bagian tampak perlu pembersihan atau restorasi ringan",
+    dimension: "Satu set panel lantai dengan ukuran tiap ubin perlu pengukuran langsung",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p12.png",
+    description: "Set ubin lantai keramik dekoratif dengan susunan pola geometris berulang, medali lingkaran, ornamen bintang, serta border floral dan lengkung. Komposisinya ditata memanjang seperti panel lantai heritage dan tampak sedang dibersihkan atau dipersiapkan untuk pemasangan. Warna krem, hitam, putih, dan kuning tua memberikan karakter arsitektur klasik. Jumlah ubin, ukuran, teknik pembuatan, asal, dan kelengkapan set perlu diverifikasi secara langsung.",
+    highlights: [
+      "Pola utama berupa medali lingkaran dan bentuk geometris berulang",
+      "Border luar dihiasi ornamen floral dan garis lengkung",
+      "Palet warna krem, hitam, putih, dan kuning tua",
+      "Ditampilkan sebagai panel lantai dekoratif berukuran besar",
+      "Cocok untuk restorasi rumah heritage atau interior bergaya klasik"
+    ]
+  },
+  {
+    id: "IDG-013",
+    title: "Set Wadah Penyimpanan Antik Hitam Merah dengan Dekorasi Emas",
+    category: "furnitur-antik",
+    categoryLabel: "Furnitur Antik",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Memiliki goresan, patina, dan bekas pemakaian alami; tutup serta struktur wadah perlu diperiksa satu per satu",
+    dimension: "Terdiri dari beberapa wadah bertingkat dan wadah bundar dengan ukuran bervariasi",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p13.png",
+    description: "Satu set wadah penyimpanan dekoratif dengan kombinasi warna hitam, merah, dan aksen emas. Koleksi ini terdiri dari wadah bertingkat berbentuk kotak serta beberapa wadah bundar bertutup dan bertangkai, dengan panel dekorasi floral, dedaunan, dan pola klasik. Bentuknya mengingatkan pada perlengkapan penyimpanan tradisional bergaya Tionghoa atau Peranakan, tetapi fungsi, material, usia, dan asal produksinya masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Terdiri dari wadah kotak bertingkat dan wadah bundar bertutup",
+      "Kombinasi warna hitam, merah, dan aksen emas yang kuat",
+      "Panel dihiasi motif floral, dedaunan, dan pola dekoratif klasik",
+      "Memiliki pegangan pada sejumlah wadah bundar",
+      "Menarik sebagai koleksi storage antik atau dekorasi interior Peranakan"
+    ]
+  },
+  {
+    id: "IDG-014",
+    title: "Set Vas dan Pot Keramik Dekoratif Hijau Motif Relief",
+    category: "keramik",
+    categoryLabel: "Keramik & Porselen",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Sebagian memiliki patina, keausan permukaan, dan bekas pemakaian alami; kondisi tiap unit perlu diperiksa",
+    dimension: "Terdiri dari beberapa vas/pot dan pedestal dengan ukuran bervariasi",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p14.png",
+    description: "Satu set vas dan pot keramik dekoratif berwarna hijau dengan relief serta ornamen figur dan floral pada permukaannya. Beberapa unit dipasangkan dengan pedestal berkaki tinggi yang memiliki panel relief berwarna kontras. Koleksi ini cocok untuk dekorasi ruang, foyer, teras beratap, atau interior bergaya heritage. Jenis keramik, fungsi tiap unit, usia, dan asal produksinya masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Set terdiri dari beberapa vas/pot dan pedestal dekoratif",
+      "Warna hijau dengan panel relief dan aksen warna kontras",
+      "Ornamen figur, floral, dan geometris pada sejumlah unit",
+      "Bentuk pedestal tinggi memberi kesan furnitur dekoratif klasik",
+      "Cocok untuk koleksi keramik arsitektural atau dekorasi heritage"
+    ]
+  },
+  {
+    id: "IDG-015",
+    title: "Set Kursi Tamu Kayu Ukir dan Meja Bundar Antik",
+    category: "furnitur-antik",
+    categoryLabel: "Furnitur Antik",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Struktur kayu dan anyaman tampak terawat dengan bekas pemakaian alami; kondisi tiap unit perlu diperiksa",
+    dimension: "Terdiri dari beberapa kursi dan satu meja bundar dengan ukuran perlu pengukuran langsung",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p15.png",
+    description: "Satu set furnitur ruang tamu yang terdiri dari beberapa kursi kayu berukir dengan panel anyaman, meja bundar berkaki dekoratif, serta elemen furnitur pendukung di sekitarnya. Bantalan berwarna merah muda memberi kontras pada kayu gelap dan memperkuat suasana interior klasik. Set ini cocok untuk ruang tamu, ruang koleksi, atau interior heritage. Jenis kayu, usia, asal produksi, dan apakah seluruh benda ditawarkan sebagai satu set masih perlu dikonfirmasi langsung.",
+    highlights: [
+      "Beberapa kursi kayu dengan sandaran dan panel anyaman",
+      "Detail ukir pada lengan, kaki, dan bingkai kursi",
+      "Meja bundar antik dengan kaki serta rak bawah dekoratif",
+      "Bantalan merah muda memberi aksen pada kayu berwarna gelap",
+      "Cocok untuk ruang tamu klasik, galeri, atau interior heritage"
+    ]
   }
 ];
 

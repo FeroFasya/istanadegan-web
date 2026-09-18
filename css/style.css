@@ -127,6 +127,12 @@ button {
   padding-top: 46px;
 }
 
+.catalog-more-link {
+  display: flex;
+  justify-content: center;
+  margin-top: 34px;
+}
+
 /* ==========================================================================
    Anti-Scam Top Security Notification Banner
    ========================================================================== */

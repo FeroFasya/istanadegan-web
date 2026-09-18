@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const filterTabs = document.querySelectorAll('.filter-tab');
   const resultCountEl = document.getElementById('resultCount');
   const emptyStateEl = document.getElementById('emptyState');
+  const isCatalogPage = document.body.classList.contains('catalog-page');
 
   filterTabs.forEach(tab => {
     const category = tab.dataset.category;
@@ -66,9 +67,13 @@ document.addEventListener('DOMContentLoaded', () => {
       return matchCategory && matchSearch;
     });
 
+    const visibleItems = isCatalogPage ? filtered : filtered.slice(0, 9);
+
     // Update Result Counter
     if (resultCountEl) {
-      resultCountEl.textContent = `Menampilkan ${filtered.length} koleksi`;
+      resultCountEl.textContent = isCatalogPage
+        ? `Menampilkan ${filtered.length} koleksi`
+        : `Menampilkan ${visibleItems.length} koleksi pilihan`;
     }
 
     // Toggle Empty State
@@ -81,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Build Cards HTML
-    const cardsHtml = filtered.map(item => {
+    const cardsHtml = visibleItems.map(item => {
       return `
         <article class="antique-card" data-id="${item.id}">
           <div class="card-media">
