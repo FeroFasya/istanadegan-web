@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Katalog Koleksi | Istana Degan</title>
+  <meta name="description" content="Katalog koleksi antik Istana Degan dan Udien Barang Antique Semarang." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="logo.png" type="image/png" />
+</head>
+<body class="catalog-page">
+  <aside class="top-security-bar" role="alert">
+    <div class="container security-content">
+      <div class="security-info">
+        <span class="security-badge-icon" title="Verifikasi Keamanan">✓</span>
+        <span class="security-text"><strong>HIMBAUAN KEAMANAN:</strong> Pembayaran resmi hanya melalui BCA a.n TAHRUDIN dan WhatsApp 0856-4000-1142.</span>
+      </div>
+    </div>
+  </aside>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="brand-wrap">
+        <img src="logo.png" alt="Logo Istana Degan" class="brand-logo" />
+        <div class="brand-text">
+          <h1>Istana Degan</h1>
+          <span class="brand-subtitle">Udien Barang Antique • Semarang</span>
+        </div>
+      </a>
+      <nav class="main-nav" id="mainNav">
+        <a href="index.html" class="nav-link">Beranda</a>
+        <a href="catalog.html" class="nav-link active">Katalog Koleksi</a>
+      </nav>
+      <div class="header-actions">
+        <a href="https://wa.me/6285640001142?text=Halo%20Pak%20Tahrudin%2C%20saya%20ingin%20bertanya%20tentang%20koleksi%20Istana%20Degan." target="_blank" rel="noopener noreferrer" class="btn-header-wa">
+          <span>WhatsApp Pak Tahrudin</span>
+        </a>
+        <button class="mobile-menu-btn" id="mobileNavToggle" aria-label="Buka Menu" aria-expanded="false">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="catalog-intro">
+      <div class="container">
+        <span class="section-tag">Arsip Koleksi</span>
+        <h2 class="section-title">Katalog Antik Istana Degan</h2>
+        <p class="section-subtitle">Jelajahi koleksi yang sudah dikurasi. Detail harga dan ketersediaan dikonfirmasi langsung melalui WhatsApp.</p>
+      </div>
+    </section>
+
+    <section class="gallery-section catalog-gallery" id="katalog">
+      <div class="container">
+        <div class="catalog-controls">
+          <div class="search-wrap">
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input type="text" id="searchInput" class="search-input" placeholder="Cari nama koleksi, era, atau kode barang..." autocomplete="off" />
+            <button type="button" id="clearSearchBtn" class="btn-clear-search hidden" title="Hapus pencarian">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
+          </div>
+          <div class="filter-tabs" role="tablist">
+            <button class="filter-tab active" data-category="all">Semua Koleksi</button>
+            <button class="filter-tab" data-category="seni-ukir">Seni & Ukiran</button>
+            <button class="filter-tab" data-category="keramik">Keramik & Porselen</button>
+            <button class="filter-tab" data-category="reklame-kuno">Plang & Reklame Jadul</button>
+            <button class="filter-tab" data-category="besi-kuno">Besi Cor & Arsitektur</button>
+            <button class="filter-tab" data-category="jam-kuno">Jam Antik</button>
+            <button class="filter-tab" data-category="koleksi-sejarah">Koleksi Sejarah</button>
+            <button class="filter-tab" data-category="furnitur-antik">Furnitur Antik</button>
+            <button class="filter-tab" data-category="dekorasi-antik">Dekorasi Antik</button>
+          </div>
+          <div class="catalog-status-bar">
+            <span id="resultCount">Menampilkan koleksi...</span>
+            <span class="catalog-security-note">Ketersediaan dikonfirmasi via WhatsApp</span>
+          </div>
+        </div>
+        <div class="gallery-grid" id="galleryGrid"></div>
+        <div class="empty-state hidden" id="emptyState">
+          <div class="empty-state-icon">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
+          </div>
+          <h3>Koleksi Tidak Ditemukan</h3>
+          <p>Silakan ubah kata kunci atau hubungi Pak Tahrudin untuk koleksi tertentu.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal-wrapper" id="itemModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-backdrop" id="modalBackdrop"></div>
+    <div class="modal-dialog">
+      <button class="modal-close-btn" id="modalCloseBtn" aria-label="Tutup Detail">×</button>
+      <div class="modal-layout">
+        <div class="modal-visual"><img id="modalImg" src="" alt="Foto Barang Antik" /></div>
+        <div class="modal-details">
+          <div class="modal-item-id" id="modalCode">IDG-001</div>
+          <h3 class="modal-title" id="modalTitle">Nama Barang Antik</h3>
+          <table class="modal-specs-table"><tbody>
+            <tr><td class="label">Era / Asal:</td><td class="val" id="modalEra">-</td></tr>
+            <tr><td class="label">Dimensi / Ukuran:</td><td class="val" id="modalDimension">-</td></tr>
+            <tr><td class="label">Kondisi Fisik:</td><td class="val" id="modalCondition">-</td></tr>
+          </tbody></table>
+          <div class="modal-desc-heading">Deskripsi Koleksi</div>
+          <p class="modal-desc-text" id="modalDesc">-</p>
+          <div class="modal-desc-heading">Keunggulan & Otentisitas</div>
+          <ul class="modal-highlights" id="modalHighlights"></ul>
+          <div class="modal-cta-box">
+            <div class="price-row"><span class="txt-label">Informasi Harga:</span><span class="txt-price" id="modalPrice">Tanya Pemilik</span></div>
+            <a href="#" id="modalWaBtn" target="_blank" rel="noopener noreferrer" class="btn-modal-wa"><span>Tanya Detail via WhatsApp</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container footer-bottom"><div>&copy; 2026 Istana Degan - Udien Barang Antique Semarang.</div><a href="index.html">Kembali ke Beranda</a></div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

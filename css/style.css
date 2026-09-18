@@ -105,6 +105,28 @@ button {
   display: none !important;
 }
 
+.catalog-intro {
+  padding: 76px 0 48px;
+  background:
+    linear-gradient(135deg, rgba(244, 235, 217, 0.92), rgba(250, 247, 242, 0.98)),
+    repeating-linear-gradient(0deg, transparent 0, transparent 23px, rgba(92, 58, 33, 0.04) 24px);
+  border-bottom: 1px solid var(--color-gold-border);
+}
+
+.catalog-intro .section-title {
+  max-width: 720px;
+  margin-top: 10px;
+}
+
+.catalog-intro .section-subtitle {
+  max-width: 680px;
+  margin-top: 14px;
+}
+
+.catalog-gallery {
+  padding-top: 46px;
+}
+
 /* ==========================================================================
    Anti-Scam Top Security Notification Banner
    ========================================================================== */
