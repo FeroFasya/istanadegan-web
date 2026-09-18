@@ -226,6 +226,18 @@ button {
   flex-shrink: 0;
 }
 
+.brand-logo {
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+  border-radius: 50%;
+  background: radial-gradient(circle, #fff 0%, #f5efe7 100%);
+  border: 2px solid var(--color-gold);
+  box-shadow: var(--shadow-sm);
+  flex-shrink: 0;
+  display: block;
+}
+
 .brand-text h1 {
   font-family: var(--font-display);
   font-size: 1.28rem;
