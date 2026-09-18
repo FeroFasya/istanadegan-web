@@ -22,6 +22,25 @@ const ANTIQUE_COLLECTIONS = [
       "Patina kayu alami dan detail arsitektur yang kuat",
       "Cocok untuk interior kolonial, vintage, atau galeri antik"
     ]
+  },
+  {
+    id: "IDG-002",
+    title: "Medali Pameran Semarang 1914 dalam Kotak Beludru Merah",
+    category: "koleksi-sejarah",
+    categoryLabel: "Koleksi Sejarah",
+    era: "Semarang, 1914 / Masa Hindia Belanda",
+    condition: "Patina alami pada permukaan logam, tersimpan dalam kotak beludru merah",
+    dimension: "Diameter sekitar 5-6 cm (perlu pengukuran langsung)",
+    price: "Tanya Harga / Nego",
+    image: "img/p02.png",
+    description: "Medali atau plakat kenang-kenangan berbentuk bundar dengan relief figur alegoris dan ornamen klasik. Tulisan pada tepi objek tampak memuat kata 'TENTOONSTELLING SEMARANG' serta angka 1914, sehingga diduga berkaitan dengan sebuah pameran di Semarang pada masa Hindia Belanda. Identifikasi sebagai medali pameran perlu dikonfirmasi melalui foto sisi belakang, pengukuran, dan pemeriksaan material secara langsung.",
+    highlights: [
+      "Tulisan 'TENTOONSTELLING SEMARANG' terlihat pada bagian tepi",
+      "Angka 1914 tampak pada bagian bawah relief",
+      "Relief figur dan ornamen bergaya klasik Eropa",
+      "Disertai kotak penyimpanan berlapis beludru merah",
+      "Menarik untuk kolektor memorabilia sejarah Semarang"
+    ]
   }
 ];
 
