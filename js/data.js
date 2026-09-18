@@ -6,18 +6,24 @@
 const ANTIQUE_COLLECTIONS = [
   {
     id: "IDG-001",
-    title: "Ukiran Kayu Gabus (Cork Art) Oriental Paviliun & Ikan Mas",
-    category: "seni-ukir",
-    categoryLabel: "Seni & Ukiran",
-    era: "Pertengahan Abad 20 (Oriental Vintage)",
-    condition: "Sangat Terawat dalam Bingkai Kaca Asli",
-    dimension: "Diameter 32 cm, Tebal 6 cm",
+    title: "Pasang Jam Dinding Antik Kayu Jati Klasik Eropa / Dutch Vintage Wall Clock",
+    category: "jam-kuno",
+    categoryLabel: "Jam Antik",
+    era: "Awal Abad ke-20 / Dutch Vintage / Era Kolonial Eropa",
+    condition: "Mesin masih berfungsi, patina kayu alami dan detail antik terawat",
+    dimension: "Tinggi sekitar 95-110 cm, Lebar 38-45 cm (satu unit)",
     price: "Tanya Harga / Nego",
-    status: "Tersedia",
-    statusType: "available",
-    image: "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
-    description: "Karya seni kriya oriental klasik berteknologi ukir kayu gabus (cork sculpture) 3 dimensi yang sangat rumit. Menggambarkan lanskap pagoda perbukitan dan sepasang ikan mas koki dengan detail sirip yang utuh. Dilengkapi dudukan kayu jati ukir hitam orisinal.",
-    highlights: ["Material kayu gabus alami presisi tinggi", "Bingkai kaca melingkar orisinal", "Kondisi kaca dan dudukan utuh tanpa retak"]
+    status: "Terkurasi",
+    statusType: "curated",
+    image: "img/p01.png",
+    description: "Sepasang jam dinding antik bergaya Eropa klasik dengan bodi kayu solid berukiran tegas, dial kuningan vintage, dan detail ornamen arsitektur yang kuat. Tampilan ini sangat cocok untuk ruang tamu, foyer, atau ruangan bergaya kolonial dengan nuansa antik yang otentik. Jam ini menyimpan karakter historis tinggi dan menjadi pilihan utama kolektor interior vintage.",
+    highlights: [
+      "Bentuk bodi kayu antik dengan ukiran khas Eropa klasik",
+      "Dial kuningan vintage dengan angka dan skala autentik",
+      "Mesin mekanik antik, cocok untuk koleksi serta dekorasi ruang",
+      "Patina kayu alami dan detail arsitektur yang kuat",
+      "Cocok untuk interior kolonial, vintage, atau galeri antik"
+    ]
   },
   {
     id: "IDG-002",
