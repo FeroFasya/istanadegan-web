@@ -22,7 +22,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalCloseBtn = document.getElementById('modalCloseBtn');
   const modalBackdrop = document.getElementById('modalBackdrop');
   const modalImg = document.getElementById('modalImg');
-  const modalBadge = document.getElementById('modalBadge');
   const modalTitle = document.getElementById('modalTitle');
   const modalCode = document.getElementById('modalCode');
   const modalEra = document.getElementById('modalEra');
@@ -78,9 +77,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Build Cards HTML
     const cardsHtml = filtered.map(item => {
-      const isCurated = item.statusType === 'curated';
-      const statusClass = isCurated ? 'badge-curated' : 'badge-available';
-
       return `
         <article class="antique-card" data-id="${item.id}">
           <div class="card-media">
@@ -96,10 +92,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span>Lihat Detail</span>
               </button>
             </div>
-            <span class="card-badge ${statusClass}">
-              <span class="badge-dot"></span>
-              ${item.status}
-            </span>
             <span class="card-category-pill">${item.categoryLabel}</span>
           </div>
 
@@ -115,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             <div class="card-footer">
               <div class="card-price-wrap">
-                <span class="price-label">Status Koleksi:</span>
+                <span class="price-label">Informasi Harga:</span>
                 <span class="price-value">${item.price}</span>
               </div>
               <div class="card-actions">
@@ -158,10 +150,6 @@ document.addEventListener('DOMContentLoaded', () => {
     if (modalImg) {
       modalImg.src = item.image;
       modalImg.alt = item.title;
-    }
-    if (modalBadge) {
-      modalBadge.textContent = item.status;
-      modalBadge.className = `modal-badge badge-${item.statusType}`;
     }
     if (modalTitle) modalTitle.textContent = item.title;
     if (modalCode) modalCode.textContent = item.id;
