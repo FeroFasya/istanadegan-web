@@ -16,6 +16,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const filterTabs = document.querySelectorAll('.filter-tab');
   const resultCountEl = document.getElementById('resultCount');
   const emptyStateEl = document.getElementById('emptyState');
+
+  filterTabs.forEach(tab => {
+    const category = tab.dataset.category;
+    tab.hidden = category !== 'all' && !ANTIQUE_COLLECTIONS.some(item => item.category === category);
+  });
   
   // Modal Elements
   const itemModal = document.getElementById('itemModal');
