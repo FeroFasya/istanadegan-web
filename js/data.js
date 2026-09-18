@@ -288,6 +288,101 @@ const ANTIQUE_COLLECTIONS = [
       "Bantalan merah muda memberi aksen pada kayu berwarna gelap",
       "Cocok untuk ruang tamu klasik, galeri, atau interior heritage"
     ]
+  },
+  {
+    id: "IDG-016",
+    title: "Koleksi Radio Vintage dan Radio Tabung Antik",
+    category: "radio-kuno",
+    categoryLabel: "Radio & Elektronik Jadul",
+    era: "Vintage / Periode dan merek masing-masing unit perlu verifikasi",
+    condition: "Beragam kondisi fisik dengan patina dan bekas pemakaian; fungsi elektronik tiap unit perlu diuji",
+    dimension: "Terdiri dari beberapa radio dengan ukuran bervariasi",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p16.png",
+    description: "Koleksi radio vintage dan radio tabung dengan beragam bentuk kabinet, kisi-kisi speaker, tombol pengatur, serta finishing kayu dan warna krem. Beberapa unit menampilkan karakter desain mid-century dan elektronik rumah tangga masa lampau. Koleksi ini cocok untuk dekorasi ruang bertema retro, museum pribadi, atau kolektor elektronik jadul. Merek, tahun produksi, kelengkapan, dan fungsi masing-masing radio perlu diverifikasi secara langsung.",
+    highlights: [
+      "Terdiri dari beberapa radio vintage dengan desain beragam",
+      "Menampilkan kabinet kayu, kisi-kisi speaker, dan tombol analog",
+      "Sebagian unit memiliki karakter radio tabung klasik",
+      "Menarik untuk koleksi elektronik rumah tangga masa lampau",
+      "Fungsi dan kelengkapan tiap unit perlu pengujian langsung"
+    ]
+  },
+  {
+    id: "IDG-017",
+    title: "Bak Tanaman Keramik Besar Relief Burung dan Singa Fo",
+    category: "keramik",
+    categoryLabel: "Keramik & Porselen",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Permukaan memiliki patina, keausan dekorasi, dan bekas pemakaian alami; kondisi bagian dalam perlu diperiksa",
+    dimension: "Panjang sekitar 100-130 cm, Tinggi 55-75 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p17.png",
+    description: "Bak tanaman atau planter keramik berukuran besar dengan bentuk oval memanjang dan dekorasi relief yang kaya. Panel utama menampilkan sepasang figur singa fo, burung, pepohonan, serta ornamen klasik dalam nuansa cokelat dan keemasan. Bagian atas memiliki tepian lebar dengan pola geometris berulang. Cocok untuk taman, foyer, teras beratap, atau interior bergaya Tionghoa dan heritage. Jenis keramik, usia, asal produksi, serta kondisi kedap air perlu diverifikasi secara langsung.",
+    highlights: [
+      "Ukuran besar dengan bentuk bak oval memanjang",
+      "Relief sepasang singa fo dan burung pada panel utama",
+      "Ornamen pepohonan dan pola geometris pada permukaan",
+      "Patina cokelat keemasan dengan karakter dekoratif kuat",
+      "Cocok sebagai planter untuk taman atau interior heritage"
+    ]
+  },
+  {
+    id: "IDG-018",
+    title: "Sepasang Patung Figur Eropa Klasik dengan Finishing Metalik",
+    category: "seni-ukir",
+    categoryLabel: "Seni & Ukiran",
+    era: "Vintage / Periode dan material perlu verifikasi",
+    condition: "Detail figur tampak utuh dengan patina dan keausan finishing alami; material dasar perlu diperiksa",
+    dimension: "Tinggi sekitar 45-60 cm per patung (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p18.png",
+    description: "Sepasang patung figur pria bergaya Eropa klasik dengan pakaian historis, aksesori, dan pose yang berbeda. Keduanya berdiri di atas pedestal bundar berwarna gelap dengan finishing metalik keperakan dan aksen warna pada detail pakaian. Patung ditempatkan di depan panel kayu ukir dekoratif. Identitas tokoh, material dasar, usia, dan asal produksinya masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Sepasang figur dengan kostum dan pose yang berbeda",
+      "Detail pakaian, aksesori, dan ekspresi dibuat cukup dekoratif",
+      "Masing-masing berdiri di atas pedestal bundar berwarna gelap",
+      "Finishing metalik dengan aksen warna pada pakaian",
+      "Cocok untuk kolektor patung figur dan interior klasik"
+    ]
+  },
+  {
+    id: "IDG-019",
+    title: "Koleksi Casing dan Dial Jam Dinding Antik",
+    category: "jam-kuno",
+    categoryLabel: "Jam Antik",
+    era: "Vintage / Periode dan merek masing-masing unit perlu verifikasi",
+    condition: "Beragam kondisi dengan patina, bekas pemakaian, dan beberapa bagian yang memerlukan perakitan atau restorasi",
+    dimension: "Terdiri dari beberapa casing dan komponen jam dengan ukuran bervariasi",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p19.png",
+    description: "Koleksi casing, dial, dan komponen jam dinding antik dengan beragam bentuk kayu, warna, ornamen, serta desain panel depan. Sejumlah unit tampak memiliki ruang dial bundar, panel kaca, dan detail dekoratif klasik, sementara beberapa lainnya terlihat sedang ditata atau diperiksa untuk kebutuhan restorasi. Merek, kelengkapan mesin, usia, dan fungsi tiap unit perlu diverifikasi secara langsung.",
+    highlights: [
+      "Terdiri dari berbagai casing jam dinding dan komponen pendukung",
+      "Memiliki variasi bentuk kayu, dial, panel kaca, dan ornamen",
+      "Menarik untuk kolektor jam antik serta proyek restorasi",
+      "Sejumlah unit tampak memiliki dial dan mekanisme yang terpisah",
+      "Merek, fungsi, dan kelengkapan tiap unit perlu pengujian langsung"
+    ]
+  },
+  {
+    id: "IDG-020",
+    title: "Set Meja Bundar Marmer dan Empat Kursi Kayu Anyaman",
+    category: "furnitur-antik",
+    categoryLabel: "Furnitur Antik",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Kayu dan anyaman tampak terawat dengan bekas pemakaian alami; permukaan marmer memiliki karakter penggunaan usia",
+    dimension: "Terdiri dari satu meja dan empat kursi dengan ukuran perlu pengukuran langsung",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p20.png",
+    description: "Set furnitur ruang makan atau ruang santai yang terdiri dari meja bundar dengan permukaan marmer putih serta empat kursi kayu berbentuk lengkung dengan dudukan anyaman. Meja memiliki kaki tengah berstruktur dekoratif, sementara kursi menampilkan sandaran melingkar dan detail konstruksi klasik. Cocok untuk ruang tamu, teras beratap, atau interior heritage. Jenis kayu, asal, usia, serta apakah set ditawarkan sebagai satu paket perlu dikonfirmasi langsung.",
+    highlights: [
+      "Satu meja bundar dengan permukaan marmer putih",
+      "Empat kursi kayu dengan sandaran melengkung",
+      "Dudukan kursi menggunakan anyaman bernuansa natural",
+      "Kaki meja memiliki struktur tengah yang dekoratif",
+      "Cocok untuk ruang santai, ruang makan, atau teras heritage"
+    ]
   }
 ];
 
