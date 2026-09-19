@@ -271,11 +271,11 @@ document.addEventListener('DOMContentLoaded', () => {
    */
   copyRekBcaBtns.forEach(btn => {
     btn.addEventListener('click', () => {
-      const textToCopy = "BCA a.n. TAHRUDIN (Rekening Resmi Istana Degan)";
+      const textToCopy = STORE_PROFILE.bankAccount;
       navigator.clipboard.writeText(textToCopy).then(() => {
-        showToast("✓ Rekening BCA Resmi a.n TAHRUDIN berhasil disalin!");
+        showToast("✓ Nama pemilik rekening berhasil disalin!");
       }).catch(() => {
-        showToast("✓ Rekening BCA: a.n TAHRUDIN");
+        showToast(`Nama pemilik rekening: ${textToCopy}`);
       });
     });
   });
