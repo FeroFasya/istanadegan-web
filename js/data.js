@@ -478,6 +478,196 @@ const ANTIQUE_COLLECTIONS = [
       "Nomor seri pada kotak menjadi bagian penting identifikasi koleksi",
       "Menarik untuk kolektor die-cast dan memorabilia mainan vintage"
     ]
+  },
+  {
+    id: "IDG-026",
+    title: "Kendi Logam PBX Kraton Yogyakarta dengan Relief Ornamen",
+    category: "koleksi-sejarah",
+    categoryLabel: "Koleksi Sejarah",
+    era: "Vintage / Periode dan material perlu verifikasi",
+    condition: "Permukaan dan ukiran tampak terawat dengan patina alami; material logam dan keaslian penanda perlu diperiksa",
+    dimension: "Tinggi sekitar 30-40 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p26.png",
+    description: "Kendi atau teko logam dekoratif dengan bentuk klasik, gagang melengkung, cerat tinggi, dan ornamen ukir floral pada bagian badan. Pada bagian depan terlihat penanda bertuliskan 'P.B.X. KRATON JOGJAKARTA', sehingga benda ini diduga berkaitan dengan lingkungan atau memorabilia Kraton Yogyakarta. Penanda tersebut, material, fungsi, usia, dan keaslian benda perlu diverifikasi secara langsung.",
+    highlights: [
+      "Bentuk kendi logam dengan cerat tinggi dan gagang dekoratif",
+      "Relief floral serta pola geometris pada bagian badan",
+      "Memiliki penanda bertuliskan 'P.B.X. KRATON JOGJAKARTA'",
+      "Finishing logam bernuansa perak dengan aksen keemasan",
+      "Menarik sebagai memorabilia sejarah dan koleksi dekoratif"
+    ]
+  },
+  {
+    id: "IDG-027",
+    title: "Sepasang Tiang Wadah Tanaman Logam Relief Bergaya Klasik",
+    category: "dekorasi-antik",
+    categoryLabel: "Dekorasi Antik",
+    era: "Vintage / Periode dan material perlu verifikasi",
+    condition: "Patina dan keausan finishing terlihat alami; bagian wadah serta stabilitas konstruksi perlu diperiksa",
+    dimension: "Tinggi sekitar 90-120 cm per unit (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p27.png",
+    description: "Sepasang tiang wadah tanaman dekoratif dengan bentuk bertingkat, dasar bersegi, panel relief, dan aksen finishing gelap tembaga. Bagian atas memiliki wadah terbuka berbentuk kotak dengan detail ornamen klasik, sedangkan badan tiang dihiasi panel relief floral dan figur dekoratif. Cocok untuk foyer, taman, teras, atau interior bergaya heritage. Material, usia, asal produksi, dan kemampuan menahan beban perlu diverifikasi secara langsung.",
+    highlights: [
+      "Sepasang tiang wadah tanaman dengan bentuk simetris",
+      "Panel badan dihiasi relief floral dan figur dekoratif",
+      "Wadah bagian atas berbentuk kotak dengan tepian lebar",
+      "Finishing gelap dengan aksen patina tembaga",
+      "Cocok untuk foyer, taman, teras, atau galeri heritage"
+    ]
+  },
+  {
+    id: "IDG-028",
+    title: "Set Tiga Foto Potret Keluarga Lama dalam Bingkai Antik",
+    category: "koleksi-sejarah",
+    categoryLabel: "Koleksi Sejarah",
+    era: "Awal hingga pertengahan abad ke-20 / Periode foto perlu verifikasi",
+    condition: "Foto dan bingkai memiliki patina serta bekas penyimpanan usia; permukaan kaca menunjukkan pantulan dan perlu dibersihkan dengan hati-hati",
+    dimension: "Terdiri dari tiga bingkai dengan ukuran bervariasi, tinggi sekitar 35-50 cm per bingkai (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p28.png",
+    description: "Satu set tiga foto potret lama yang menampilkan dua figur pria dan satu figur perempuan, masing-masing ditempatkan dalam bingkai dekoratif. Dua bingkai berbentuk oval memiliki ornamen floral dan mahkota ukir pada bagian atas, sedangkan bingkai lainnya memiliki bentuk melengkung dengan finishing kayu gelap. Foto-foto ini menarik sebagai memorabilia keluarga, dokumentasi sejarah, dan koleksi dekorasi heritage. Identitas tokoh, hubungan keluarga, usia foto, teknik cetak, serta asal bingkai masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Satu set terdiri dari tiga foto potret lama dalam bingkai berbeda",
+      "Dua bingkai oval memiliki ornamen floral dan mahkota ukir dekoratif",
+      "Menampilkan potret dua pria dan satu perempuan dengan busana formal",
+      "Permukaan foto dan kaca memperlihatkan karakter penyimpanan usia",
+      "Menarik untuk kolektor memorabilia keluarga dan dokumentasi sejarah"
+    ]
+  },
+  {
+    id: "IDG-029",
+    title: "Lemari Rias Antik Kayu dengan Cermin Tengah dan Kabinet Samping",
+    category: "furnitur-antik",
+    categoryLabel: "Furnitur Antik",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Struktur kayu tampak kokoh dengan finishing mengilap, patina ringan, serta bekas pemakaian alami; engsel, kunci, dan kondisi cermin perlu diperiksa",
+    dimension: "Tinggi sekitar 180-210 cm, Lebar 150-180 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p29.png",
+    description: "Lemari rias atau kabinet pajangan antik berbahan kayu berwarna cokelat kemerahan dengan komposisi simetris. Bagian tengah dilengkapi cermin tinggi, laci, ruang pajangan, dan rak terbuka, sementara kedua sisi memiliki kabinet tinggi dengan pintu panel serta jendela kaca dekoratif. Mahkota lengkung di bagian atas dan detail geometris kecil pada laci serta pintu memperkuat karakter furnitur vintage. Jenis kayu, usia, asal produksi, dan kelengkapan perangkat keras masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Komposisi simetris dengan kabinet tinggi di sisi kiri dan kanan",
+      "Cermin tinggi menjadi elemen utama pada bagian tengah",
+      "Dilengkapi laci, ruang pajangan, dan rak terbuka bagian bawah",
+      "Pintu kabinet memiliki kombinasi panel kayu dan kaca dekoratif",
+      "Mahkota lengkung serta detail geometris memperkuat karakter vintage"
+    ]
+  },
+  {
+    id: "IDG-030",
+    title: "Koleksi Dua Kamera Format Besar Antik dengan Tripod Kayu",
+    category: "koleksi-sejarah",
+    categoryLabel: "Koleksi Sejarah",
+    era: "Awal hingga pertengahan abad ke-20 / Tahun dan merek perlu verifikasi",
+    condition: "Kamera, bellow, dudukan, dan tripod menunjukkan patina serta bekas pemakaian alami; fungsi optik dan kelengkapan mekanisme perlu diuji",
+    dimension: "Terdiri dari dua kamera format besar dengan tripod dan dudukan kayu, ukuran masing-masing perlu pengukuran langsung",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p30.png",
+    description: "Koleksi dua kamera format besar bergaya vintage yang dilengkapi bellow lipat, lensa depan, dudukan kamera, dan tripod kayu. Kamera di sisi kiri menggunakan dudukan kayu tinggi dengan alas lebar, sementara kamera di sisi kanan berdiri di atas tripod kayu berkaki tiga. Bentuk dan konstruksinya merepresentasikan perangkat fotografi studio atau dokumentasi pada masa awal perkembangan fotografi modern. Merek, tahun produksi, jenis lensa, kelengkapan aksesori, serta fungsi masing-masing kamera perlu diverifikasi melalui pemeriksaan langsung.",
+    highlights: [
+      "Terdiri dari dua kamera format besar bergaya fotografi studio klasik",
+      "Dilengkapi bellow lipat dan lensa depan berukuran besar",
+      "Satu kamera menggunakan dudukan kayu tinggi dengan alas lebar",
+      "Satu kamera lainnya ditempatkan pada tripod kayu berkaki tiga",
+      "Menarik untuk kolektor fotografi, memorabilia teknologi, dan interior heritage"
+    ]
+  },
+  {
+    id: "IDG-031",
+    title: "Kotak Penyimpanan Antik Kayu Ukir dengan Empat Laci",
+    category: "furnitur-antik",
+    categoryLabel: "Furnitur Antik",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Struktur kayu tampak kokoh dengan patina, goresan, dan bekas pemakaian alami; laci, engsel, kunci, serta ornamen logam perlu diperiksa",
+    dimension: "Tinggi sekitar 60-80 cm, Lebar 50-70 cm, Kedalaman 35-50 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p31.png",
+    description: "Kotak atau lemari penyimpanan antik berbahan kayu dengan finishing merah tua, empat laci bertingkat, dan ruang penyimpanan di bagian atas. Permukaan depan dihiasi panel bertekstur, ukiran dekoratif, serta ornamen logam pada sudut, kunci, dan pegangan. Bagian atas dilengkapi bingkai pegangan besar, sementara sisi kanan dan kiri menampilkan ukiran memanjang dengan nuansa klasik Tionghoa atau Peranakan. Fungsi asli, jenis kayu, usia, asal produksi, serta kelengkapan perangkat keras masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Empat laci bertingkat dengan pegangan dan lubang kunci dekoratif",
+      "Ruang penyimpanan utama berada di balik pintu pada bagian atas",
+      "Panel depan memiliki tekstur, ukiran, dan finishing merah tua",
+      "Ornamen logam menghiasi sudut, engsel, kunci, dan bagian samping",
+      "Cocok sebagai storage koleksi, furnitur dekoratif, atau interior Peranakan"
+    ]
+  },
+  {
+    id: "IDG-032",
+    title: "Lemari Pendingin Antik Finishing Putih dengan Kaki Tinggi",
+    category: "koleksi-sejarah",
+    categoryLabel: "Koleksi Sejarah",
+    era: "Vintage / Periode dan merek perlu verifikasi",
+    condition: "Bodi logam dan finishing menunjukkan patina ringan serta bekas pemakaian; fungsi pendinginan, kondisi interior, karet pintu, dan kelistrikan perlu diuji",
+    dimension: "Tinggi sekitar 150-180 cm, Lebar 65-80 cm, Kedalaman 60-75 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p32.png",
+    description: "Lemari pendingin antik dengan bodi logam berfinishing putih, pintu tunggal, engsel serta kunci model lama, dan kaki tinggi bergaya dekoratif. Bagian atasnya dihiasi ornamen berbentuk bola putih yang menjadi ciri visual kuat. Bentuk kabinet dan perangkat kerasnya merepresentasikan peralatan rumah tangga vintage yang juga menarik sebagai elemen dekorasi interior retro. Merek, tahun produksi, jenis sistem pendingin, kelengkapan interior, dan fungsi mesin perlu diverifikasi melalui pemeriksaan langsung.",
+    highlights: [
+      "Bodi logam dengan finishing putih bergaya vintage",
+      "Pintu tunggal menggunakan engsel dan kunci model lama",
+      "Kaki tinggi berbentuk dekoratif memberi tampilan seperti furnitur",
+      "Ornamen bola putih menjadi detail khas pada bagian atas",
+      "Menarik sebagai koleksi peralatan rumah tangga dan dekorasi retro"
+    ]
+  },
+  {
+    id: "IDG-033",
+    title: "Kipas Angin Berdiri Antik dengan Baling-Baling Kayu",
+    category: "koleksi-sejarah",
+    categoryLabel: "Koleksi Sejarah",
+    era: "Vintage / Periode dan merek perlu verifikasi",
+    condition: "Bodi logam memiliki patina dan bekas pemakaian alami; kabel, motor, sakelar, serta fungsi putar kipas perlu diuji sebelum digunakan",
+    dimension: "Tinggi sekitar 130-160 cm, Diameter sangkar sekitar 45-55 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p33.png",
+    description: "Kipas angin berdiri antik dengan sangkar pelindung berbentuk bundar, empat baling-baling kayu, dan motor berbodi logam bergaya industrial. Kipas berdiri di atas tiang tengah dengan kaki tripod ramping serta dilengkapi detail knop dan dudukan dekoratif pada bagian bawah. Baling-baling kayu dan konstruksi logamnya memberikan karakter kuat sebagai peralatan rumah tangga vintage sekaligus dekorasi interior heritage. Merek, tahun produksi, kapasitas motor, kelengkapan komponen, dan fungsi kelistrikan perlu diverifikasi melalui pemeriksaan langsung.",
+    highlights: [
+      "Empat baling-baling kayu dengan karakter vintage yang kuat",
+      "Sangkar pelindung logam berbentuk bundar",
+      "Motor dan dudukan memiliki detail dekoratif bergaya industrial",
+      "Konstruksi berdiri menggunakan tiang tengah dan kaki tripod",
+      "Menarik sebagai koleksi elektronik jadul atau dekorasi interior heritage"
+    ]
+  },
+  {
+    id: "IDG-034",
+    title: "Plang Enamel Reklame Bavaria Bier Pilsener-Bier",
+    category: "reklame-kuno",
+    categoryLabel: "Plang & Reklame Jadul",
+    era: "Vintage / Periode dan tahun produksi perlu verifikasi",
+    condition: "Enamel masih menampilkan warna dan tulisan yang jelas dengan patina, goresan, serta kerusakan kecil pada tepian dan sudut akibat usia",
+    dimension: "Tinggi sekitar 80-100 cm, Lebar 30-40 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p34.png",
+    description: "Plang reklame enamel bergaya vintage dengan latar kuning dan tulisan besar 'Bavaria Bier'. Bagian tengah menampilkan ilustrasi botol Bavaria dengan label 'Bavaria-Brauerei' dan keterangan 'Pilsener-Bier', sedangkan bagian bawah memuat tulisan Jerman 'Hier verkrijgbaar' yang berarti tersedia di sini. Warna merah, hitam, putih, dan hijau membentuk komposisi reklame yang kuat, dengan patina serta bekas pemasangan pada tepian plang. Tahun produksi, konteks distribusi, dan tingkat keaslian perlu diverifikasi melalui pemeriksaan material serta bagian belakang plang.",
+    highlights: [
+      "Tulisan utama 'Bavaria Bier' dengan tipografi reklame vintage",
+      "Ilustrasi botol Bavaria dengan label Bavaria-Brauerei",
+      "Memuat keterangan 'Pilsener-Bier' dan 'Hier verkrijgbaar'",
+      "Material enamel menampilkan warna cerah dengan patina usia",
+      "Menarik untuk kolektor reklame minuman dan memorabilia perdagangan"
+    ]
+  },
+  {
+    id: "IDG-035",
+    title: "Set Lemari Pajangan Kayu Panjang dengan Panel Kaca",
+    category: "furnitur-antik",
+    categoryLabel: "Furnitur Antik",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Struktur lemari tampak utuh dengan patina, bekas pemakaian, dan variasi warna pada kayu; kaca, rak, sambungan, serta bagian belakang perlu diperiksa",
+    dimension: "Terdiri dari beberapa modul dengan panjang total sekitar 500-700 cm dan tinggi 180-220 cm (perlu pengukuran langsung)",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p35.png",
+    description: "Satu set lemari pajangan kayu berukuran panjang yang tersusun dari beberapa modul dengan panel kaca, rak interior, laci, serta bagian sudut melengkung. Bingkai kayu berwarna cokelat kemerahan membentuk kisi-kisi geometris pada pintu dan panel kaca, sementara bagian dalamnya memiliki banyak tingkat rak untuk menyimpan atau memajang koleksi. Komposisi modularnya cocok untuk ruang galeri, rumah heritage, toko koleksi, atau interior bergaya klasik. Jenis kayu, usia, asal produksi, jumlah modul, serta kondisi kaca dan sambungannya masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Terdiri dari beberapa modul lemari dengan panjang keseluruhan yang besar",
+      "Panel kaca dan rak interior menyediakan banyak ruang pajangan",
+      "Bingkai kayu kemerahan memiliki kisi-kisi geometris klasik",
+      "Bagian sudut melengkung memberi komposisi display yang unik",
+      "Cocok untuk galeri, ruang koleksi, toko antik, atau interior heritage"
+    ]
   }
 ];
 
