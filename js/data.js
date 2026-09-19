@@ -383,6 +383,101 @@ const ANTIQUE_COLLECTIONS = [
       "Kaki meja memiliki struktur tengah yang dekoratif",
       "Cocok untuk ruang santai, ruang makan, atau teras heritage"
     ]
+  },
+  {
+    id: "IDG-021",
+    title: "Set Teh Keramik Vintage Motif Figur dan Aksen Merah",
+    category: "keramik",
+    categoryLabel: "Keramik & Porselen",
+    era: "Vintage / Periode dan asal produksi perlu verifikasi",
+    condition: "Permukaan glasir tampak terawat dengan bekas pemakaian alami; kelengkapan dan kondisi tiap unit perlu diperiksa",
+    dimension: "Terdiri dari teko, cangkir, mangkuk, dan tatakan dengan ukuran bervariasi",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p21.png",
+    description: "Satu set perlengkapan minum keramik berwarna putih gading dengan garis tepi merah dan motif figur dekoratif pada badan teko, cangkir, mangkuk, serta tatakan. Set ini dilengkapi beberapa teko dan cangkir dengan bentuk serta ukuran berbeda. Merek, asal produksi, usia, jumlah unit, dan kelengkapan set perlu diverifikasi melalui pemeriksaan langsung.",
+    highlights: [
+      "Terdiri dari teko, cangkir, mangkuk, dan tatakan",
+      "Warna putih gading dengan garis tepi merah",
+      "Motif figur dekoratif pada sejumlah bagian keramik",
+      "Bentuk knop dan pegangan bergaya vintage",
+      "Menarik untuk kolektor tableware dan keramik rumah tangga jadul"
+    ]
+  },
+  {
+    id: "IDG-022",
+    title: "Set Nampan, Wadah, dan Aksesori Logam Ukir Bernuansa Emas",
+    category: "dekorasi-antik",
+    categoryLabel: "Dekorasi Antik",
+    era: "Vintage / Periode dan material perlu verifikasi",
+    condition: "Patina dan keausan permukaan terlihat alami; material serta kelengkapan tiap aksesori perlu diperiksa",
+    dimension: "Terdiri dari satu nampan oval dan beberapa wadah/aksesori dengan ukuran bervariasi",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p22.png",
+    description: "Satu set aksesori dekoratif yang terdiri dari nampan oval berbingkai ornamen, beberapa wadah bundar bertutup, wadah kecil, serta aksesori dengan gagang panjang. Permukaannya menampilkan relief floral, burung, dan detail ukir dengan nuansa warna perak tua serta aksen keemasan. Set ini cocok sebagai koleksi dekorasi meja atau perlengkapan display interior klasik. Material, fungsi, usia, dan asal produksinya masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Nampan oval dengan tepian dan detail ornamen dekoratif",
+      "Beberapa wadah bundar bertutup dengan relief ukir",
+      "Aksen figur burung, bunga, dan dedaunan pada permukaan",
+      "Nuansa finishing perak tua dengan detail keemasan",
+      "Menarik untuk kolektor aksesori meja dan dekorasi antik"
+    ]
+  },
+  {
+    id: "IDG-023",
+    title: "Set Panel Relief Klasik Figur Mitologi dalam Bingkai",
+    category: "seni-ukir",
+    categoryLabel: "Seni & Ukiran",
+    era: "Vintage / Periode dan material perlu verifikasi",
+    condition: "Relief dan bingkai memiliki patina, keausan, serta bekas pemakaian alami",
+    dimension: "Terdiri dari tiga panel bundar dan dua panel persegi panjang dengan ukuran bervariasi",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p23.png",
+    description: "Satu set panel dekoratif berwarna hijau tua dengan relief figur manusia bergaya klasik dan mitologi, terdiri dari tiga panel bundar serta dua panel persegi panjang berbingkai. Figur-figur ditampilkan dalam pose dinamis dengan nuansa relief putih yang kontras terhadap latar hijau. Detail penandaan pada panel belum dapat dipastikan dari foto; material, pembuat, usia, dan asal produksinya masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Terdiri dari tiga panel bundar dan dua panel persegi panjang",
+      "Relief figur klasik dengan pose dan komposisi berbeda",
+      "Latar hijau tua dengan relief putih yang kontras",
+      "Dua panel dilengkapi bingkai kayu berwarna terang",
+      "Cocok sebagai dekorasi dinding bergaya klasik atau heritage"
+    ]
+  },
+  {
+    id: "IDG-024",
+    title: "Sepasang Lampu Gantung Kuningan dengan Rangka Kristal",
+    category: "dekorasi-antik",
+    categoryLabel: "Dekorasi Antik",
+    era: "Vintage / Periode dan material perlu verifikasi",
+    condition: "Rangka kuningan dan batang kristal tampak terpasang; instalasi listrik serta kelengkapan komponen perlu diperiksa",
+    dimension: "Terdiri dari dua lampu gantung dengan ukuran perlu pengukuran langsung",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p24.png",
+    description: "Sepasang lampu gantung dekoratif dengan rangka berwarna kuningan, bentuk geometris, dan susunan batang atau prisma kaca bening yang menjuntai di sekeliling badan lampu. Masing-masing memiliki batang gantung panjang serta detail lengkung pada bagian bawah. Cocok untuk ruang tamu, foyer, ruang makan, atau interior bergaya klasik. Material kristal, fungsi kelistrikan, usia, dan asal produksinya masih perlu diverifikasi secara langsung.",
+    highlights: [
+      "Sepasang lampu gantung dengan rangka kuningan",
+      "Susunan batang kaca bening membentuk efek kristal dekoratif",
+      "Detail geometris dan lengkung pada rangka lampu",
+      "Batang gantung panjang cocok untuk ruang dengan plafon tinggi",
+      "Cocok sebagai elemen pencahayaan interior klasik atau heritage"
+    ]
+  },
+  {
+    id: "IDG-025",
+    title: "Koleksi Matchbox Superfast Vintage dalam Kotak Orisinal",
+    category: "koleksi-sejarah",
+    categoryLabel: "Koleksi Sejarah",
+    era: "Vintage / Periode dan edisi tiap unit perlu verifikasi",
+    condition: "Kotak memiliki patina, perubahan warna, dan bekas penyimpanan usia; kondisi miniatur di dalam perlu diperiksa",
+    dimension: "Terdiri dari banyak unit Matchbox dengan ukuran kotak seragam",
+    price: "Kolektor Item / Tanya Harga",
+    image: "img/p25.png",
+    description: "Koleksi miniatur kendaraan Matchbox dan Matchbox Superfast dalam kotak-kotak kemasan bergambar orisinal. Koleksi mencakup berbagai model kendaraan seperti truk, bus, mobil, kendaraan konstruksi, kapal, dan sepeda motor dengan nomor seri yang beragam. Kemasan memperlihatkan patina, perubahan warna, serta karakter penyimpanan lama. Edisi, tahun produksi, kelengkapan miniatur, dan tingkat kelangkaan tiap unit perlu diverifikasi secara langsung.",
+    highlights: [
+      "Koleksi terdiri dari banyak unit Matchbox dan Superfast",
+      "Kemasan bergambar masih menyertai sebagian besar unit",
+      "Beragam model kendaraan dari mobil hingga kendaraan konstruksi",
+      "Nomor seri pada kotak menjadi bagian penting identifikasi koleksi",
+      "Menarik untuk kolektor die-cast dan memorabilia mainan vintage"
+    ]
   }
 ];
 
